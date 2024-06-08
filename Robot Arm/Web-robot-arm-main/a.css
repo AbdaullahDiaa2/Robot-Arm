@@ -1,0 +1,30 @@
+body {
+  
+  text-align: center;
+  background-color: black;
+}
+h2
+{
+ background-image: url("q1.JPG");
+ color: white;
+ font-size: 45px;
+}
+div {
+margin: 70px 550px;
+border-width: 2px;
+padding: 20px;
+border-color: #7981b5;
+border-style: solid ;
+color: #c6c7f7;
+}
+label
+{
+ display: block;
+ text-align: center;
+ font-size: 30px;
+}
+input
+{
+ font-size: 20px;
+  color:  red;
+}
